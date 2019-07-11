@@ -5,16 +5,16 @@ The credit for the assets, music, images that I used goes to the respective owne
 
 FutureSight, the project for the UBISOFT Gamecelerator competition:
 
-// Link removed temporarily.
+https://drive.google.com/open?id=0BwD45BZMoKPYVnZSWExhQkROVjQ
 
 FusedLabs: 
 
-// Link removed temporarily.
+https://drive.google.com/open?id=1AAqurdw-OQEqjIVEwVSMT9W_NahN0PJn
 
 Snake with powerups: 
 
-// Link removed temporarily.
+https://drive.google.com/drive/folders/1Z3RGDdRiKfqoAVNsDbMABvYpB4lEUl2I?usp=sharing
 
 MineTheBombs: 
 
-// Link removed temporarily.
+https://drive.google.com/drive/folders/1auTHKg0200yr1wuTQeMxuaLFaN9p-OYI?usp=sharing
